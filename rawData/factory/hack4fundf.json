@@ -1,0 +1,9 @@
+{
+	"name": "hack4fundf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61a8d3f0-f482-4770-8313-298add201ea3",
+		"tenantId": "6e3dd510-fc44-4398-a93d-506a76c00832"
+	}
+}
